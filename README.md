@@ -33,10 +33,6 @@ and keep sharpening my Linux, networking, OSINT, and ethical hacking skills.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28" alt="Shield icon" /> About Me
 
-<table>
-  <tr>
-    <td width="65%">
-
 ```bash
 analyst.profile --load
 ```
@@ -47,9 +43,6 @@ analyst.profile --load
 - Building practical security projects that demonstrate investigation and defense skills
 - Professional goal: protect systems, reduce risk, and communicate findings clearly
 
-    </td>
-    <td width="35%">
-
 ```text
 +-- Current Focus ------+
 | SIEM investigations   |
@@ -59,10 +52,6 @@ analyst.profile --load
 | Ethical hacking labs  |
 +-----------------------+
 ```
-
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -106,13 +95,13 @@ analyst.profile --load
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarun-vaishnav&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=E6FFE6" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-vaishnav&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66&text_color=E6FFE6" alt="Top languages" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun-vaishnav&theme=github_dark" alt="GitHub profile summary" />
 
 <br />
 <br />
 
-<img width="96%" src="https://streak-stats.demolab.com?user=tarun-vaishnav&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub contribution streak" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarun-vaishnav&theme=github_dark" alt="Top languages by repository" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarun-vaishnav&theme=github_dark" alt="GitHub stats summary" />
 
 </div>
 
@@ -134,68 +123,45 @@ analyst.profile --load
 
 ## <img src="https://img.icons8.com/?size=100&id=11113&format=png&color=00FF66" width="26" alt="Folder icon" /> Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Security Lab</h3>
-      <p align="center">
-        <a href="https://github.com/tarun-vaishnav/security-lab">
-          <img src="https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="Security Lab repository" />
-        </a>
-      </p>
-      <p>Hands-on lab notes, detection ideas, Linux hardening practice, and ethical hacking writeups.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kali-050505?style=flat-square&logo=kalilinux&logoColor=00FF66" alt="Kali" />
-        <img src="https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=00FF66" alt="Linux" />
-        <img src="https://img.shields.io/badge/SOC-050505?style=flat-square&logo=securityscorecard&logoColor=00FF66" alt="SOC" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Python Security Tools</h3>
-      <p align="center">
-        <a href="https://github.com/tarun-vaishnav/python-security-tools">
-          <img src="https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="Python Security Tools repository" />
-        </a>
-      </p>
-      <p>Automation scripts for reconnaissance, log parsing, IOC checks, and analyst productivity.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00FF66" alt="Python" />
-        <img src="https://img.shields.io/badge/Automation-050505?style=flat-square&logo=gnubash&logoColor=00FF66" alt="Automation" />
-        <img src="https://img.shields.io/badge/Detection-050505?style=flat-square&logo=target&logoColor=00FF66" alt="Detection" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">OSINT Toolkit</h3>
-      <p align="center">
-        <a href="https://github.com/tarun-vaishnav/osint-toolkit">
-          <img src="https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="OSINT Toolkit repository" />
-        </a>
-      </p>
-      <p>Structured public-source investigation workflows for usernames, domains, and exposed metadata.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OSINT-050505?style=flat-square&logo=target&logoColor=00FF66" alt="OSINT" />
-        <img src="https://img.shields.io/badge/Recon-050505?style=flat-square&logo=hackthebox&logoColor=00FF66" alt="Recon" />
-        <img src="https://img.shields.io/badge/Reports-050505?style=flat-square&logo=markdown&logoColor=00FF66" alt="Reports" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Network Scanner</h3>
-      <p align="center">
-        <a href="https://github.com/tarun-vaishnav/network-scanner">
-          <img src="https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="Network Scanner repository" />
-        </a>
-      </p>
-      <p>Networking practice project for ports, services, host discovery, and clean terminal reporting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Networking-050505?style=flat-square&logo=cisco&logoColor=00FF66" alt="Networking" />
-        <img src="https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00FF66" alt="Python" />
-        <img src="https://img.shields.io/badge/TCP%2FIP-050505?style=flat-square&logo=wireshark&logoColor=00FF66" alt="TCP/IP" />
-      </p>
-    </td>
-  </tr>
-</table>
+### Security Lab
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)](https://github.com/tarun-vaishnav/security-lab)
+
+Hands-on lab notes, detection ideas, Linux hardening practice, and ethical hacking writeups.
+
+![Kali](https://img.shields.io/badge/Kali-050505?style=flat-square&logo=kalilinux&logoColor=00FF66)
+![Linux](https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=00FF66)
+![SOC](https://img.shields.io/badge/SOC-050505?style=flat-square&logo=securityscorecard&logoColor=00FF66)
+
+### Python Security Tools
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)](https://github.com/tarun-vaishnav/python-security-tools)
+
+Automation scripts for reconnaissance, log parsing, IOC checks, and analyst productivity.
+
+![Python](https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00FF66)
+![Automation](https://img.shields.io/badge/Automation-050505?style=flat-square&logo=gnubash&logoColor=00FF66)
+![Detection](https://img.shields.io/badge/Detection-050505?style=flat-square&logo=target&logoColor=00FF66)
+
+### OSINT Toolkit
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)](https://github.com/tarun-vaishnav/osint-toolkit)
+
+Structured public-source investigation workflows for usernames, domains, and exposed metadata.
+
+![OSINT](https://img.shields.io/badge/OSINT-050505?style=flat-square&logo=target&logoColor=00FF66)
+![Recon](https://img.shields.io/badge/Recon-050505?style=flat-square&logo=hackthebox&logoColor=00FF66)
+![Reports](https://img.shields.io/badge/Reports-050505?style=flat-square&logo=markdown&logoColor=00FF66)
+
+### Network Scanner
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)](https://github.com/tarun-vaishnav/network-scanner)
+
+Networking practice project for ports, services, host discovery, and clean terminal reporting.
+
+![Networking](https://img.shields.io/badge/Networking-050505?style=flat-square&logo=cisco&logoColor=00FF66)
+![Python](https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00FF66)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-050505?style=flat-square&logo=wireshark&logoColor=00FF66)
 
 ---
 
