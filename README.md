@@ -1,16 +1,252 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**tarun-vaishnav/tarun-vaishnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,45:003B1F,100:00FF66&text=TARUN%20VAISHNAV&fontColor=00FF66&fontSize=52&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20SOC%20%7C%20Ethical%20Hacking%20%7C%20OSINT&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Cybersecurity profile banner" />
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=750&color=00FF66&center=true&vCenter=true&width=900&lines=%3E+Initializing+SOC+Analyst+Mode...;%3E+Hunting+Threats+%7C+Hardening+Systems;%3E+Python+%2B+Linux+%2B+Networking;%3E+OSINT+%7C+SIEM+%7C+Ethical+Hacking;%3E+Building+Secure+Digital+Defenses" alt="Animated typing banner" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=tarun-vaishnav&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/STATUS-THREAT%20HUNTER-00ff66?style=for-the-badge&labelColor=050505" alt="Threat hunter status" />
+<img src="https://img.shields.io/badge/FOCUS-SOC%20ANALYSIS-00ff66?style=for-the-badge&labelColor=050505" alt="SOC analysis focus" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+```text
++--(tarun@security-lab)-[~/profile]
++--$ whoami
+
+Cybersecurity-focused builder with a SOC analyst mindset.
+I investigate alerts, study attacker behavior, automate workflows with Python,
+and keep sharpening my Linux, networking, OSINT, and ethical hacking skills.
+```
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28" alt="Shield icon" /> About Me
+
+<table>
+  <tr>
+    <td width="65%">
+
+```bash
+analyst.profile --load
+```
+
+- Cybersecurity Analyst track with hands-on SOC, SIEM, and incident triage focus
+- Comfortable in Kali Linux, Linux shells, networking fundamentals, and Python scripting
+- Interested in threat detection, vulnerability research, log analysis, and OSINT
+- Building practical security projects that demonstrate investigation and defense skills
+- Professional goal: protect systems, reduce risk, and communicate findings clearly
+
+    </td>
+    <td width="35%">
+
+```text
++-- Current Focus ------+
+| SIEM investigations   |
+| Network security      |
+| Python automation     |
+| OSINT methodology     |
+| Ethical hacking labs  |
++-----------------------+
+```
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://img.icons8.com/?size=100&id=12229&format=png&color=00FF66" width="26" alt="Terminal icon" /> Cybersecurity Toolkit
+
+<div align="center">
+
+| Domain | Tools & Concepts |
+| --- | --- |
+| **Operating Systems** | Kali Linux, Linux, Windows Security Basics |
+| **SOC / SIEM** | Alert Triage, Log Analysis, Threat Hunting, Incident Response |
+| **Networking** | TCP/IP, DNS, HTTP/S, Routing, Firewalls, Packet Analysis |
+| **Offensive Security** | Ethical Hacking, Reconnaissance, Vulnerability Assessment |
+| **OSINT** | Public Data Collection, Digital Footprinting, Investigation Workflows |
+| **Automation** | Python Scripts, Bash, Security Tooling, Report Generation |
+
+</div>
+
+---
+
+## <img src="https://img.icons8.com/?size=100&id=55497&format=png&color=00FF66" width="26" alt="Code icon" /> Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Kali%20Linux-050505?style=for-the-badge&logo=kalilinux&logoColor=00FF66" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=00FF66" alt="Linux" />
+<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00FF66" alt="Python" />
+<img src="https://img.shields.io/badge/Networking-050505?style=for-the-badge&logo=cisco&logoColor=00FF66" alt="Networking" />
+<img src="https://img.shields.io/badge/OSINT-050505?style=for-the-badge&logo=target&logoColor=00FF66" alt="OSINT" />
+<img src="https://img.shields.io/badge/SIEM-050505?style=for-the-badge&logo=splunk&logoColor=00FF66" alt="SIEM" />
+<img src="https://img.shields.io/badge/Ethical%20Hacking-050505?style=for-the-badge&logo=hackthebox&logoColor=00FF66" alt="Ethical Hacking" />
+<img src="https://img.shields.io/badge/Cybersecurity%20Analyst-050505?style=for-the-badge&logo=securityscorecard&logoColor=00FF66" alt="Cybersecurity Analyst" />
+<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00FF66" alt="Git" />
+<img src="https://img.shields.io/badge/Bash-050505?style=for-the-badge&logo=gnubash&logoColor=00FF66" alt="Bash" />
+
+</div>
+
+---
+
+## <img src="https://img.icons8.com/?size=100&id=7719&format=png&color=00FF66" width="26" alt="Graph icon" /> GitHub Intel
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarun-vaishnav&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=E6FFE6" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-vaishnav&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66&text_color=E6FFE6" alt="Top languages" />
+
+<br />
+<br />
+
+<img width="96%" src="https://streak-stats.demolab.com?user=tarun-vaishnav&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## <img src="https://img.icons8.com/?size=100&id=11260&format=png&color=00FF66" width="26" alt="Activity icon" /> Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarun-vaishnav/tarun-vaishnav/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarun-vaishnav/tarun-vaishnav/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tarun-vaishnav/tarun-vaishnav/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## <img src="https://img.icons8.com/?size=100&id=11113&format=png&color=00FF66" width="26" alt="Folder icon" /> Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Security Lab</h3>
+      <p align="center">
+        <a href="https://github.com/tarun-vaishnav/security-lab">
+          <img src="https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="Security Lab repository" />
+        </a>
+      </p>
+      <p>Hands-on lab notes, detection ideas, Linux hardening practice, and ethical hacking writeups.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kali-050505?style=flat-square&logo=kalilinux&logoColor=00FF66" alt="Kali" />
+        <img src="https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=00FF66" alt="Linux" />
+        <img src="https://img.shields.io/badge/SOC-050505?style=flat-square&logo=securityscorecard&logoColor=00FF66" alt="SOC" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Python Security Tools</h3>
+      <p align="center">
+        <a href="https://github.com/tarun-vaishnav/python-security-tools">
+          <img src="https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="Python Security Tools repository" />
+        </a>
+      </p>
+      <p>Automation scripts for reconnaissance, log parsing, IOC checks, and analyst productivity.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00FF66" alt="Python" />
+        <img src="https://img.shields.io/badge/Automation-050505?style=flat-square&logo=gnubash&logoColor=00FF66" alt="Automation" />
+        <img src="https://img.shields.io/badge/Detection-050505?style=flat-square&logo=target&logoColor=00FF66" alt="Detection" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">OSINT Toolkit</h3>
+      <p align="center">
+        <a href="https://github.com/tarun-vaishnav/osint-toolkit">
+          <img src="https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="OSINT Toolkit repository" />
+        </a>
+      </p>
+      <p>Structured public-source investigation workflows for usernames, domains, and exposed metadata.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OSINT-050505?style=flat-square&logo=target&logoColor=00FF66" alt="OSINT" />
+        <img src="https://img.shields.io/badge/Recon-050505?style=flat-square&logo=hackthebox&logoColor=00FF66" alt="Recon" />
+        <img src="https://img.shields.io/badge/Reports-050505?style=flat-square&logo=markdown&logoColor=00FF66" alt="Reports" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Network Scanner</h3>
+      <p align="center">
+        <a href="https://github.com/tarun-vaishnav/network-scanner">
+          <img src="https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505" alt="Network Scanner repository" />
+        </a>
+      </p>
+      <p>Networking practice project for ports, services, host discovery, and clean terminal reporting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Networking-050505?style=flat-square&logo=cisco&logoColor=00FF66" alt="Networking" />
+        <img src="https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00FF66" alt="Python" />
+        <img src="https://img.shields.io/badge/TCP%2FIP-050505?style=flat-square&logo=wireshark&logoColor=00FF66" alt="TCP/IP" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://img.icons8.com/?size=100&id=11168&format=png&color=00FF66" width="26" alt="Certificate icon" /> Certifications
+
+```text
++-- Certifications & Learning Path -------------------------------+
+| [ ] Google Cybersecurity Professional Certificate                |
+| [ ] Cisco Networking / Cybersecurity Essentials                  |
+| [ ] TryHackMe SOC Level 1                                        |
+| [ ] CompTIA Security+                                            |
+| [ ] Add your verified badges and certificate URLs here           |
++------------------------------------------------------------------+
+```
+
+---
+
+## <img src="https://img.icons8.com/?size=100&id=124134&format=png&color=00FF66" width="26" alt="Connection icon" /> Connect
+
+<div align="center">
+
+<a href="mailto:tarunvaishnav765@gmail.com">
+  <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin-username">
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF66" alt="LinkedIn" />
+</a>
+<a href="https://tryhackme.com/p/your-tryhackme-username">
+  <img src="https://img.shields.io/badge/TryHackMe-050505?style=for-the-badge&logo=tryhackme&logoColor=00FF66" alt="TryHackMe" />
+</a>
+<a href="https://www.hackthebox.com/profile/your-hackthebox-id">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-050505?style=for-the-badge&logo=hackthebox&logoColor=00FF66" alt="Hack The Box" />
+</a>
+
+</div>
+
+---
+
+## <img src="https://img.icons8.com/?size=100&id=12580&format=png&color=00FF66" width="26" alt="Contact icon" /> Contact
+
+<div align="center">
+
+```text
++-- Secure Contact ---------------------------------------+
+| Email   : tarunvaishnav765@gmail.com                    |
+| GitHub  : github.com/tarun-vaishnav                     |
+| Role    : Cybersecurity Analyst | SOC | Ethical Hacking |
+| Status  : Open to internships, analyst roles, and labs  |
++---------------------------------------------------------+
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00FF66,45:003B1F,100:000000" width="100%" alt="Footer wave" />
+
+</div>
