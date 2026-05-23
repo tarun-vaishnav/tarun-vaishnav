@@ -175,21 +175,24 @@ Networking practice project for ports, services, host discovery, and clean termi
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=124134&format=png&color=00FF66" width="26" alt="Connection icon" /> Connect
+## <img src="https://img.icons8.com/?size=100&id=85130&format=png&color=00FF66" width="26" alt="Connection icon" /> Connect
 
 <div align="center">
 
 <a href="mailto:tarunvaishnav765@gmail.com">
-  <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-00FF66?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/tarun-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="https://tryhackme.com/p/tarunvaishnav765">
-  <img src="https://img.shields.io/badge/TryHackMe-050505?style=for-the-badge&logo=tryhackme&logoColor=00FF66" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00FF66" alt="TryHackMe" />
 </a>
+&nbsp;
 <a href="https://profile.hackthebox.com/profile/019e52b1-5703-7141-80e0-f85e54797494">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-050505?style=for-the-badge&logo=hackthebox&logoColor=00FF66" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
 </a>
 
 </div>
