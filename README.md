@@ -187,7 +187,7 @@ Networking practice project for ports, services, host discovery, and clean termi
   <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/tarun-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF66&labelColor=050505" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=Linkedin&logoColor=00FF66&labelColor=050505" alt="LinkedIn" />
 </a>
 <a href="https://tryhackme.com/p/tarunvaishnav765">
   <img src="https://img.shields.io/badge/TryHackMe-050505?style=for-the-badge&logo=tryhackme&logoColor=00FF66" alt="TryHackMe" />
