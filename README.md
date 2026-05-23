@@ -186,13 +186,13 @@ Networking practice project for ports, services, host discovery, and clean termi
 <a href="mailto:tarunvaishnav765@gmail.com">
   <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-username">
+<a href="https://www.linkedin.com/in/tarun-dev">
   <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF66" alt="LinkedIn" />
 </a>
-<a href="https://tryhackme.com/p/your-tryhackme-username">
+<a href="https://tryhackme.com/p/tarunvaishnav765">
   <img src="https://img.shields.io/badge/TryHackMe-050505?style=for-the-badge&logo=tryhackme&logoColor=00FF66" alt="TryHackMe" />
 </a>
-<a href="https://www.hackthebox.com/profile/your-hackthebox-id">
+<a href="https://profile.hackthebox.com/profile/019e52b1-5703-7141-80e0-f85e54797494">
   <img src="https://img.shields.io/badge/Hack%20The%20Box-050505?style=for-the-badge&logo=hackthebox&logoColor=00FF66" alt="Hack The Box" />
 </a>
 
