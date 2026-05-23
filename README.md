@@ -107,15 +107,11 @@ analyst.profile --load
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=11260&format=png&color=00FF66" width="26" alt="Activity icon" /> Contribution Snake
+## <img src="https://img.icons8.com/?size=100&id=11260&format=png&color=00FF66" width="26" alt="Activity icon" /> Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarun-vaishnav/tarun-vaishnav/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarun-vaishnav/tarun-vaishnav/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tarun-vaishnav/tarun-vaishnav/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun-vaishnav&bg_color=000000&color=00ff66&line=00ff66&point=e6ffe6&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -187,7 +183,7 @@ Networking practice project for ports, services, host discovery, and clean termi
   <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/tarun-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=050505" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://tryhackme.com/p/tarunvaishnav765">
   <img src="https://img.shields.io/badge/TryHackMe-050505?style=for-the-badge&logo=tryhackme&logoColor=00FF66" alt="TryHackMe" />
