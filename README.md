@@ -121,11 +121,11 @@ analyst.profile --load
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=11113&format=png&color=00FF66" width="26" alt="Folder icon" /> Featured Projects
+## <img src="https://img.icons8.com/?size=100&id=11113&format=png&color=00FF66" width="26" alt="Folder icon" /> Future Builds & Projects
 
-### Security Lab
+### Future Build: Security Lab
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)](https://github.com/tarun-vaishnav/security-lab)
+![Planned Project](https://img.shields.io/badge/Planned%20Project-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)
 
 Hands-on lab notes, detection ideas, Linux hardening practice, and ethical hacking writeups.
 
@@ -133,9 +133,9 @@ Hands-on lab notes, detection ideas, Linux hardening practice, and ethical hacki
 ![Linux](https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=00FF66)
 ![SOC](https://img.shields.io/badge/SOC-050505?style=flat-square&logo=securityscorecard&logoColor=00FF66)
 
-### Python Security Tools
+### Future Build: Python Security Tools
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)](https://github.com/tarun-vaishnav/python-security-tools)
+![Planned Project](https://img.shields.io/badge/Planned%20Project-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)
 
 Automation scripts for reconnaissance, log parsing, IOC checks, and analyst productivity.
 
@@ -143,9 +143,9 @@ Automation scripts for reconnaissance, log parsing, IOC checks, and analyst prod
 ![Automation](https://img.shields.io/badge/Automation-050505?style=flat-square&logo=gnubash&logoColor=00FF66)
 ![Detection](https://img.shields.io/badge/Detection-050505?style=flat-square&logo=target&logoColor=00FF66)
 
-### OSINT Toolkit
+### Future Build: OSINT Toolkit
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)](https://github.com/tarun-vaishnav/osint-toolkit)
+![Planned Project](https://img.shields.io/badge/Planned%20Project-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)
 
 Structured public-source investigation workflows for usernames, domains, and exposed metadata.
 
@@ -153,9 +153,9 @@ Structured public-source investigation workflows for usernames, domains, and exp
 ![Recon](https://img.shields.io/badge/Recon-050505?style=flat-square&logo=hackthebox&logoColor=00FF66)
 ![Reports](https://img.shields.io/badge/Reports-050505?style=flat-square&logo=markdown&logoColor=00FF66)
 
-### Network Scanner
+### Future Build: Network Scanner
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)](https://github.com/tarun-vaishnav/network-scanner)
+![Planned Project](https://img.shields.io/badge/Planned%20Project-00FF66?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505)
 
 Networking practice project for ports, services, host discovery, and clean terminal reporting.
 
@@ -187,7 +187,7 @@ Networking practice project for ports, services, host discovery, and clean termi
   <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/tarun-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=Linkedin&logoColor=00FF66&labelColor=050505" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=050505" alt="LinkedIn" />
 </a>
 <a href="https://tryhackme.com/p/tarunvaishnav765">
   <img src="https://img.shields.io/badge/TryHackMe-050505?style=for-the-badge&logo=tryhackme&logoColor=00FF66" alt="TryHackMe" />
