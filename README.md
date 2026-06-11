@@ -14,8 +14,13 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=tarunvaishnav&style=for-the-badge&label=PROFILE+VIEWS&color=0891b2" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/tarunvaishnav?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=111827" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/tarunvaishnav?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=0f766e" alt="GitHub stars" />
+<a href="https://github.com/tarunvaishnav?tab=followers">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
+<a href="https://github.com/tarunvaishnav?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+<img src="https://img.shields.io/badge/Open%20to%20AI%20Roles-312E81?style=for-the-badge&logo=openai&logoColor=white" alt="Open to AI roles" />
 
 </div>
 
